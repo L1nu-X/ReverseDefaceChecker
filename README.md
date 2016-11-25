@@ -12,6 +12,11 @@ Python, an interpreted programming language has been used to design an automated
 * website reverse lookup result containing '-'(hiphen) gets splitted into another line.
 I will be working on it for fixing this small bug.Hope, won't affect much.
 
+> Last Update:
+------------
+* Timestamp: 25.11.16
+* Fixed some error messages
+
 > Contact:
 --------
 facebook.com/wax.vampire
